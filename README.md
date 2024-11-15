@@ -1,15 +1,5 @@
 # Expense Tracker App: Overview
 
-## Deployment
-This app is being deployed using Netlify  
-Link to app: https://expense-tracker-react-ts-app.netlify.app
-
-## Motivation Behind Project 
-As a university student it is very important to be able to keep track of where I am spending my money. Many of the expense tracking websites and apps
-either lack functionality or in design.  
-I decided to create an expense tracking app that has both the functionality and the design.  
-This project was also a great chance for me to learn the Mantine UI library.
-
 ## Resources and Technologies used
 Technologies: ReactJS, React Router, React Icons, TypeScript, Mantine UI, HTML canvas API, Local Storage, and ViteJS.  
 React Docs Beta: https://beta.reactjs.org/  
